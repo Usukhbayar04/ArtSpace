@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="num_title">Монгол Улсын Их Сургууль</string>
+    <string name="ufe_title">Санхүү Эдийн Засгийн Их Сургууль</string>
+    <string name="must_title">Шинжлэх Ухаан Технологийн Их Сургууль</string>
+    <string name="msue_title">Монгол Улсын Боловсролын Их Сургууль</string>
+
+    <string name="num_desc">Монгол Улсын Их Сургууль</string>
+    <string name="ufe_desc">Санхүү Эдийн Засгийн Их Сургууль</string>
+    <string name="must_desc">Шинжлэх Ухаан Технологийн Их Сургууль</string>
+    <string name="msue_desc">Монгол Улсын Боловсролын Их Сургууль</string>
+
+    <string name="num_rel_year">(1942)</string>
+    <string name="ufe_rel_year">(1924)</string>
+    <string name="must_rel_year">(1959)</string>
+    <string name="msue_rel_year">(1951)</string>
+
+    <string name="num_pre">D. Badarch</string>
+    <string name="ufe_pre">Davaajargal Tsaschikher</string>
+    <string name="must_pre"> Damdinsuren Bayanduuren</string>
+    <string name="msue_pre">Ochirbatiin Altangoo</string>
+
+    <string name="previous_bottom">Previus</string>
+    <string name="next_bottom">Next</string>
+</resources>
